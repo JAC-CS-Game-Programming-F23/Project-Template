@@ -153,4 +153,3 @@ Once you've made your final `git push` to GitHub, here's what you have to do to 
 4. Schedule an (online, on Teams) demonstration appointment with me where I'll be grading your submission on the spot using a grading rubric.
    - Details for how to schedule the demo will be available closer to the deadline.
      - **You don't have to wait until the official slots are available to demo**. If you're done earlier, let me know, and we'll find a time to demo so you can get this class off your plate and focus on the 42 other things you have to do for school!
-   - The grading rubric will also be made available closer to the deadline so you know what to expect.
