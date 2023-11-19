@@ -16,17 +16,26 @@
 
 This is it - the culmination of all the skills and knowledge about game development over this past semester. It's like fighting the [final boss](https://img-9gag-fun.9cache.com/photo/awMrL1D_460s.jpg) at the end of a game. I know you have everything it takes to conquer it! 😉
 
-This project can be done, at most, in pairs. You may only work in a pair if your current course grade is >= 70%. The project scope should scale with the number of people. In other words, I expect a bigger game with more features from pairs than from individuals. I will try to ensure this as best as possible based on your proposal. No, you do not have to work with someone from your own section.
+This project can be done, at most, in pairs. The project scope should scale with the number of people. In other words, I expect a bigger game with more features from pairs than from individuals. I will try to ensure this as best as possible based on your proposal. No, you do not have to work with someone from your own section.
 
-The game itself is largely up to you - I want you to get creative! If you're having trouble thinking of ideas, mash 2 genres together and see if that sparks anything. Maybe you'll make a 2D side-scrolling platformer with puzzle elements? Maybe you'll make an endless runner dungeon-crawler with a physics engine?
+> [!caution]
+> You may only work in a pair if your current course grade is >= 70%.
 
-[The sky is the limit](https://en.wikipedia.org/wiki/List_of_video_game_genres)!
+The game itself is largely up to you - I want you to get creative!
+
+> [!tip]
+> If you're having trouble thinking of ideas, try browsing game assets from [itch.io](https://itch.io/game-assets) and [opengameart.org](https://opengameart.org/). Sometimes finding a cool asset pack helps spark ideas!
+>
+> Another strategy is to mash 2 genres together and see if that sparks anything. Maybe you'll make a 2D side-scrolling platformer with puzzle elements? Maybe you'll make an endless runner dungeon-crawler with a physics engine?
+>
+> [The sky is the limit](https://en.wikipedia.org/wiki/List_of_video_game_genres)!
 
 ## 📐 Proposal
 
 I ask that you go about your design and architecture in a meaningful and purpose-driven way. For this reason, I'm asking you to first write a proposal for your game. This will make you think about the different states, classes, relationships, design patterns, etc. that you will have to adhere to when it comes time for the implementation.
 
-> ❗ While the due date for the proposal is **November 26**, this is a soft deadline. You will not get penalized for a late proposal, however, the longer you wait, the less time you'll have to work on your implementation. I must look your proposal over and confirm that you're planning to meet all the criteria for the implementation phase. If there are things you're missing or need to fix, I will let you know so that you can incorporate my feedback. I can then give you the green light to get started.
+> [!warning]
+> While the due date for the proposal is **November 26**, this is a soft deadline. You will not get penalized for a late proposal, however, the longer you wait, the less time you'll have to work on your implementation. I must look your proposal over and confirm that you're planning to meet all the criteria for the implementation phase. If there are things you're missing or need to fix, I will let you know so that you can incorporate my feedback. I can then give you the green light to get started.
 
 - The proposal document should be the `README.md` for your repo.
   - **Please look in the `Sample-Proposal` folder** of this repo to get an idea of how your proposal should look.
@@ -60,7 +69,8 @@ Yes, the final implementation will probably not be 100% accurate based on the pr
 
 This is where the fun begins! As I said, the game itself is all up to you, however, I want to see specific elements in your code that show me you've progressed as a developer and aren't writing [first-year](https://gist.github.com/pixeldesu/f6c8bd3c2d2b09f177c196a826b18dd2) level code! 🙈
 
-Depending on the game you decide to make, you may not be able to fulfil all of the requirements just by the very nature of the game itself. If this is the case, **come talk to me and we can figure out a compromise**.
+> [!warning]
+> Depending on the game you decide to make, you may not be able to fulfil all of the requirements just by the very nature of the game itself. If this is the case, **come talk to me and we can figure out a compromise**.
 
 ### 📃 Requirements
 
