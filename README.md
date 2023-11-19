@@ -18,9 +18,6 @@ This is it - the culmination of all the skills and knowledge about game developm
 
 This project can be done, at most, in pairs. The project scope should scale with the number of people. In other words, I expect a bigger game with more features from pairs than from individuals. I will try to ensure this as best as possible based on your proposal. No, you do not have to work with someone from your own section.
 
-> [!caution]
-> You may only work in a pair if your current course grade is >= 70%.
-
 The game itself is largely up to you - I want you to get creative!
 
 > [!tip]
@@ -119,7 +116,7 @@ This is where the fun begins! As I said, the game itself is all up to you, howev
 
 ### 🫥 Template
 
-I've provided a `Game-Template` that you can use as the base of your game. It's up to you if you want to use it or not, but I think it's a great starting point!
+I've provided a [Game-Template](./Game-Template/) that you can use as the base of your game. It's up to you if you want to use it or not, but I think it's a great starting point!
 
 All the code should be contained in this repo itself. If you're working with a partner, only one of you has to accept the GitHub classroom assignment. That person can [add the other to this repo using the GitHub settings](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
 
