@@ -60,11 +60,8 @@ This implementation of _Pokémon the Trading Card Game_ is a single player exper
 
 ### 🧵 Wireframes
 
-{% note %}
-
-**note:** Your wireframes don't have to be super polished. They can even be black and white. I'm just looking for a rough idea about what you're visualizing.
-
-{% endnote %}
+> [!note]
+> Your wireframes don't have to be super polished. They can even be black and white. I'm just looking for a rough idea about what you're visualizing.
 
 ![Main Menu](./images/Main-Menu.png)
 
