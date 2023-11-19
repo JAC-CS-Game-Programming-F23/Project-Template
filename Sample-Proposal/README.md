@@ -1,10 +1,7 @@
 # Game Programming Project - Pokémon the Trading Card Game
 
-{% note %}
-
-**Note:** This was taken from a project I did in university so the scope is **much** larger than what I'm expecting from you in terms of number of features!
-
-{% endnote %}
+> [!note]
+> This was taken from a project I did in university so the scope is **much** larger than what I'm expecting from you in terms of number of features!
 
 ## ✒️ Description
 
@@ -20,11 +17,8 @@ This implementation of _Pokémon the Trading Card Game_ is a single player exper
 
 ## 📃 Requirements
 
-{% note %}
-
-**Note:** This was a web project so that's why you'll see requirements about logging in and uploading data which for you is irrelevant. Focus more on the requirements describing actions taken for gameplay.
-
-{% endnote %}
+> [!note]
+> This was a web project so that's why you'll see requirements about logging in and uploading data which for you is irrelevant. Focus more on the requirements describing actions taken for gameplay.
 
 1. The user shall register to be able to login.
 2. The user shall login to be able to play a game.
@@ -55,11 +49,8 @@ This implementation of _Pokémon the Trading Card Game_ is a single player exper
 
 ### 🤖 State Diagram
 
-{% note %}
-
-**Note:** Remember that you'll need diagrams for not only game states but entity states as well.
-
-{% endnote %}
+> [!note]
+> Remember that you'll need diagrams for not only game states but entity states as well.
 
 ![State Diagram](./images/StateDiagram.png)
 
@@ -71,7 +62,7 @@ This implementation of _Pokémon the Trading Card Game_ is a single player exper
 
 {% note %}
 
-**Note:** Your wireframes don't have to be super polished. They can even be black and white. I'm just looking for a rough idea about what you're visualizing.
+**note:** Your wireframes don't have to be super polished. They can even be black and white. I'm just looking for a rough idea about what you're visualizing.
 
 {% endnote %}
 
