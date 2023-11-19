@@ -151,5 +151,4 @@ Once you've made your final `git push` to GitHub, here's what you have to do to 
 2. Notify me via Teams as soon as you push so that I can take a look and give you the green light to start implementation.
 3. Ensure that the game folders are at the root of the repo directory. In other words, I don't want to see a `Game-Template` folder in the final submission.
 4. Schedule an (online, on Teams) demonstration appointment with me where I'll be grading your submission on the spot using a grading rubric.
-   - Details for how to schedule the demo will be available closer to the deadline.
-     - **You don't have to wait until the official slots are available to demo**. If you're done earlier, let me know, and we'll find a time to demo so you can get this class off your plate and focus on the 42 other things you have to do for school!
+   - Details for how to schedule the demo will be available closer to the deadline. **You don't have to wait until the official slots are available to demo**. If you're done earlier, let me know, and we'll find a time to demo so you can get this class off your plate and focus on the 42 other things you have to do for school!
