@@ -66,8 +66,8 @@ Yes, the final implementation will probably not be 100% accurate based on the pr
 
 This is where the fun begins! As I said, the game itself is all up to you, however, I want to see specific elements in your code that show me you've progressed as a developer and aren't writing [first-year](https://gist.github.com/pixeldesu/f6c8bd3c2d2b09f177c196a826b18dd2) level code! 🙈
 
-> [!warning]
-> Depending on the game you decide to make, you may not be able to fulfil all of the requirements just by the very nature of the game itself. If this is the case, **come talk to me and we can figure out a compromise**.
+> [!important]
+> Depending on the game you decide to make, you may not be able to fulfill all of the requirements just by the very nature of the game itself. If this is the case, **come talk to me and we can figure out a compromise**.
 
 ### 📃 Requirements
 
